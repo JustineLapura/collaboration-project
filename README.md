@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Collab Team Project
+this is a project to get started on collaboration with other developers 
+
 ## Getting Started
 
 First, run the development server:
